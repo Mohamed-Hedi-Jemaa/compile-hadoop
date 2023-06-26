@@ -51,11 +51,11 @@ change the value of VERSION, you can compile other version of Hadoop
 ####Download compiled Hadoop
 
 ```
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.3.0/hadoop-2.3.0.tar.gz
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.4.0/hadoop-2.4.0.tar.gz
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.5.0/hadoop-2.5.0.tar.gz
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.6.0/hadoop-2.6.0.tar.gz
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.7.0/hadoop-2.7.0.tar.gz
-wget https://github.com/medhedijemaa/compile-hadoop/releases/download/2.7.2/hadoop-2.7.2.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.3.0/hadoop-2.3.0.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.4.0/hadoop-2.4.0.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.5.0/hadoop-2.5.0.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.6.0/hadoop-2.6.0.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.7.0/hadoop-2.7.0.tar.gz
+wget https://github.com/Mohamed-Hedi-Jemaa/compile-hadoop/releases/download/2.7.2/hadoop-2.7.2.tar.gz
 ```
 
